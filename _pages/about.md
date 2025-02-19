@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the School of Cyber Science and Technology at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by Prof.[Jingqiang Lin](https://lin-jingqiang.github.io/). Besides, I am also honored to operate with Prof. [Bingyu Li](https://scholar.google.com/citations?hl=zh-CN&user=_pqPCqcAAAAJ) and Dr. [Yiming Zhang](https://cypher-z.github.io/). Prior to that, I got my BS degree in Computer Science and Technology from Hefei University of Technology (HFUT) in 2020. 
+I am a PhD candidate in the School of Cyber Science and Technology at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by Prof.[Jingqiang Lin](https://lin-jingqiang.github.io/). Besides, I am also honored to collaborate with Prof. [Bingyu Li](https://scholar.google.com/citations?hl=zh-CN&user=_pqPCqcAAAAJ) and Dr. [Yiming Zhang](https://cypher-z.github.io/). Prior to that, I got my BS degree in Computer Science and Technology from Hefei University of Technology (HFUT) in 2020. 
 
 My research interests include email security, public key infrastructure, and transparency. I focus on empirical, data-driven studies to evaluate the real-world impact of security threats, with the goal of providing valuable insights to the community and contributing to strengthening Internet security.
 
