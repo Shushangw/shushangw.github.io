@@ -11,7 +11,7 @@ I am a PhD candidate in the School of Cyber Science and Technology at [Universit
 
 My research interests include email security, public key infrastructure, and transparency. I focus on empirical, data-driven studies to evaluate the real-world impact of security threats, with the goal of providing valuable insights to the community and contributing to strengthening Internet security.
 
-<span style="color:red;">**Research Opportunities:**</span> I am happy to engage in discussions on security-related topics with researchers worldwide. Additionally, I am actively seeking internship opportunities to collaborate with different research groups. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
+<span style="color:red;">**Looking for Research Opportunities:**</span> I am happy to engage in discussions on security-related topics with researchers worldwide. Additionally, I am actively seeking internship opportunities to collaborate with different research groups. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
 
 News
 ======
