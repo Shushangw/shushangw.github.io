@@ -20,7 +20,7 @@ News
 - **November 2024:** Our paper *"Automatic Insecurity: Exploring Email Auto-configuration in the Wild"* has been accepted at NDSS Symposium 2025! Congratulations to me on my first first-authored paper in Big4. It wasn't easy, but I did it. 🎉🥳.
 - **September 2023:** Our paper *"Certificate Transparency Revisited: The Public Inspections on Third-party Monitors"* has been accepted at NDSS Symposium 2024! 🎉
 
-Publications
+Selected Publications
 ======
 - **Automatic Insecurity: Exploring Email Auto-configuration in the Wild**
 
@@ -59,5 +59,5 @@ Volunteer:
 Misc
 ------
 - My Chinese name is 温舒尚 (pronounced /ʃuːʃɑːŋ/, or "Shoo-Shang"). I also go by the nickname "Ciba" (糍粑), which I've had since junior high—it’s a traditional Chinese sticky rice cake! 😉
-- Outside the lab, I am passionate about basketball, photography, and virtually any outdoor activity, as they fuel my creativity and keep my curiosity alive. Additionally, I enjoy the atmosphere of live music festivals and concerts. I’m not much of a gamer, but I do occasionally play NBA 2K or GTA V.
+- Outside the lab, I am passionate about basketball, photography, and virtually any outdoor activity, as they fuel my creativity and keep my curiosity alive. Additionally, I enjoy the atmosphere of live music festivals and concerts. I’m not much of a gamer, but I do occasionally play NBA 2K Sports or GTA V.
 
