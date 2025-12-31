@@ -14,14 +14,14 @@ My research interests primarily lie in Email Security, Public Key Infrastructure
 <span style="color:red;">**Seeking Postdoc Positions:**</span> I am actively seeking Postdoctoral opportunities and look forward to collaborating with research groups worldwide. I am always happy to engage in discussions on security-related topics. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
 
 News
-======
+------
 
 - **January 2025:** I am so excited and honored to receive the [NDSS Symposium Fellowship](https://www.internetsociety.org/fellowships/ndss-symposium/2025-fellows/) 2025 🎉.
 - **November 2024:** Our paper *"Automatic Insecurity: Exploring Email Auto-configuration in the Wild"* has been accepted at NDSS Symposium 2025! Congratulations to me on my first first-authored paper in Big4. It wasn't easy, but I did it. 🎉🥳.
 - **September 2023:** Our paper *"Certificate Transparency Revisited: The Public Inspections on Third-party Monitors"* has been accepted at NDSS Symposium 2024! 🎉
 
 Selected Publications
-======
+------
 - **Automatic Insecurity: Exploring Email Auto-configuration in the Wild**
 
   **Shushang Wen**, Yiming Zhang, Yuxiang Shen, Bingyu Li, Haixin Duan, Jingqiang Lin
