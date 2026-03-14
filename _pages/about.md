@@ -7,21 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the School of Cyber Science and Technology at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by Prof.[Jingqiang Lin](https://lin-jingqiang.github.io/). I also have the privilege of collaborating with Assoc. Prof. [Bingyu Li](https://scholar.google.com/citations?hl=zh-CN&user=_pqPCqcAAAAJ) and Asst.Prof [Yiming Zhang](https://cypher-z.github.io/). Previously, I earned my B.S. degree in Computer Science and Technology from Hefei University of Technology (HFUT) in 2020.
+I am a PhD candidate in the School of Cyber Science and Technology at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by Prof.[Jingqiang Lin](https://lin-jingqiang.github.io/). I also have the privilege of collaborating with Assoc.Prof. [Bingyu Li](https://scholar.google.com/citations?hl=zh-CN&user=_pqPCqcAAAAJ) and Asst.Prof. [Yiming Zhang](https://cypher-z.github.io/). Previously, I received my B.S. in Computer Science and Technology from Hefei University of Technology (HFUT) in 2020.
 
-My research interests primarily lie in Email Security, Public Key Infrastructure (PKI), and Transparency Systems. I focus on empirical, data-driven studies to evaluate real-world security threats, with the goal of providing actionable insights to the community and strengthening Internet security.
+My research interests primarily lie in Email Security, Public Key Infrastructure (PKI), and Transparency Systems. I focus on empirical, data-driven studies to evaluate real-world security threats, aiming to provide actionable insights for the community and strengthen Internet security.
 
-<span style="color:red;">**Seeking Postdoc Positions:**</span> I am actively seeking Postdoctoral opportunities and look forward to collaborating with research groups worldwide. I am always happy to engage in discussions on security-related topics. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
+<span style="color:red;">**Seeking Postdoc Positions:**</span> I am actively seeking Postdoctoral opportunities starting in Fall 2026. I am always happy to engage in discussions on security-related topics and explore new collaborations. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
 
 News
 ======
 
+- **March 2026:** Our paper *"A Security Analysis of Built-in Provider Configuration Lists in Mobile Email Clients"* has been accepted at ESORICS 2026! Let's meet in Rome! 🎉 
 - **January 2025:** I am so excited and honored to receive the [NDSS Symposium Fellowship](https://www.internetsociety.org/fellowships/ndss-symposium/2025-fellows/) 2025 🎉.
 - **November 2024:** Our paper *"Automatic Insecurity: Exploring Email Auto-configuration in the Wild"* has been accepted at NDSS Symposium 2025! Congratulations to me on my first first-authored paper in Big4. It wasn't easy, but I did it. 🎉🥳.
 - **September 2023:** Our paper *"Certificate Transparency Revisited: The Public Inspections on Third-party Monitors"* has been accepted at NDSS Symposium 2024! 🎉
 
 Selected Publications
 ======
+- **A Security Analysis of Built-in Provider Configuration Lists in Mobile Email Clients**
+
+  **Shushang Wen**, Yuxiang Shen, Liye Zhao, Ziqian Wang, Wei Wang, Jingqiang Lin
+
+  *31st European Symposium on Research in Computer Security (ESORICS 2026)*
 - **Automatic Insecurity: Exploring Email Auto-configuration in the Wild**
 
   **Shushang Wen**, Yiming Zhang, Yuxiang Shen, Bingyu Li, Haixin Duan, Jingqiang Lin
@@ -42,21 +48,18 @@ Teaching Assistant
 Services
 ------
 External reviewer:
-
 - WPES, 2025.
 - Journal of Computer Security (JCS), 2024, 2025.
 - Cybersecurity, 2025.
 - SecureComm, 2024.
 
 Organizers:
-
 - Workshop on Cybersecurity Innovation at USTC, 2023, 2024.
 
 Volunteer:
-
 - 3rd International Workshop on Cyber Security and Data Privacy at USTC (Virtual), 2021.
 
 Misc
 ------
 - My Chinese name is 温舒尚 (pronounced /ʃuːʃɑːŋ/, or "Shoo-Shang"). I also go by the nickname "Ciba" (糍粑), which I've had since junior high—it’s a traditional Chinese sticky rice cake 😉~
-- Outside the lab, I am passionate about basketball, photography, and virtually any outdoor activity, as they fuel my creativity and keep my curiosity alive. Additionally, I enjoy the atmosphere of live music festivals and concerts. I’m not much of a gamer, but I do occasionally play NBA 2K or GTA V.
+- Outside the lab, I am passionate about basketball, photography, and virtually any outdoor activity, as they fuel my creativity and keep my curiosity alive. I also love the vibrant atmosphere of live music festivals and concerts. I’m not much of a gamer, but I do occasionally play NBA 2K or GTA V to unwind.
