@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the School of Cyber Science and Technology at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by Prof.[Jingqiang Lin](https://lin-jingqiang.github.io/). I also have the privilege of collaborating with Assoc.Prof. [Bingyu Li](https://scholar.google.com/citations?hl=zh-CN&user=_pqPCqcAAAAJ) and Asst.Prof. [Yiming Zhang](https://cypher-z.github.io/). Previously, I received my B.S. in Computer Science and Technology from Hefei University of Technology (HFUT) in 2020.
+I am a PhD candidate in the School of Cyber Science and Technology at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/). I also have the privilege of collaborating with Assoc.Prof. [Bingyu Li](https://scholar.google.com/citations?hl=zh-CN&user=_pqPCqcAAAAJ) and Asst.Prof. [Yiming Zhang](https://cypher-z.github.io/). I am currently visiting the [iTrust Centre for Research in Cyber Security](https://www.sutd.edu.sg/itrust) at the Singapore University of Technology and Design (SUTD), hosted by Prof. [Jianying Zhou](http://jianying.space/). Previously, I received my B.S. in Computer Science and Technology from Hefei University of Technology (HFUT) in 2020.
 
 My research interests primarily lie in Email Security, Public Key Infrastructure (PKI), and Transparency Systems. I focus on empirical, data-driven studies to evaluate real-world security threats, aiming to provide actionable insights for the community and strengthen Internet security.
 
-<span style="color:red;">**Seeking Postdoc Positions:**</span> I am actively seeking Postdoctoral opportunities starting in Fall 2026. I am always happy to engage in discussions on security-related topics and explore new collaborations. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
+<span style="color:red;">**Seeking Jobs:**</span> I am actively seeking job opportunities in both academia and industry. I am always happy to engage in discussions on security-related topics and explore new collaborations. Please feel free to reach out to me at [sswen@mail.ustc.edu.cn](mailto:sswen@mail.ustc.edu.cn)!
 
 News
 ======
@@ -48,6 +48,7 @@ Teaching Assistant
 Services
 ------
 External reviewer:
+- ACM Internet Measurement Conference (IMC) Shadow TPC, 2026.
 - WPES, 2025.
 - Journal of Computer Security (JCS), 2024, 2025.
 - Cybersecurity, 2025.
